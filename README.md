@@ -270,18 +270,6 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Developer
 
-### Naveen Kumar
 
-AI Developer | Full Stack Developer | Computer Science Student
 
-**Project Name:** NeuroVision – AI-Powered Eye Health Monitoring System
-
----
-
-## 📜 License
-
-This project is developed for educational, research, and innovation purposes.
-
-© 2026 Naveen Kumar. All Rights Reserved.
